@@ -1,0 +1,10 @@
+.code{
+ border: 1px solid grey;
+ padding: 8px 9px 4px 16px;
+ color: black;
+ width: 300px;
+ font-weight: bold;
+ font-family: verdana;
+ background-color: #f1f1f1;
+ margin: 14px 15px 15px 15px;
+}
